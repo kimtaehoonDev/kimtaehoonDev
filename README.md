@@ -7,11 +7,13 @@
 ## 📭 Contact Me
 ✉️ Email : thkimm.dev@gmail.com
 
-## 🛠 Tech Stack
+## 🛠 What I Used
 <div>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-FF9E0F?style=flat-square&logo=JAVA&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=JAVA&logoColor=white" />  
+
 </div>
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
